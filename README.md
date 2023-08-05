@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jaytaravia@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Jayt257/Resume/blob/main/Jay%20Taravia.pdf](https://github.com/Jayt257/Resume/blob/main/Jay%20Taravia.pdf)
+- 📄 Know about my experiences [[https://github.com/Jayt257/Resume/blob/main/Jay%20Taravia.pdf](https://github.com/Jayt257/Resume/blob/main/Jaykumar%20Taravia_Resume.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
