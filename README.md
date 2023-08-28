@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/4482525575581055837](https://www.blogger.com/blog/posts/4482525575581055837)
 
-- 💬 Ask me about **Android, Kotlin, C++, MySQL**
+- 💬 Ask me about **Android, Kotlin, C++, Java, Firebase**
 
 - 📫 How to reach me **jaytaravia@gmail.com**
 
