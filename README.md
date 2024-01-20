@@ -4,15 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayt257&label=Profile%20views&color=0e75b6&style=flat" alt="jayt257" /> </p>
 
-- 🌱 I’m currently learning **Android development, Jetpack Compose, Architecture Components**
+- 🌱 I’m currently learning **React Native, Android development, Architecture Components**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/4482525575581055837](https://www.blogger.com/blog/posts/4482525575581055837)
-
-- 💬 Ask me about **Android, Kotlin, C++, Java, Firebase**
+- 💬 Ask me about **Android, Kotlin, Java, Firebase, React Native, React**
 
 - 📫 How to reach me **jaytaravia@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Jayt257/Resume/blob/main/Jaykumar%20Taravia_Resume.pdf](https://github.com/Jayt257/Resume/blob/main/Jaykumar%20Taravia_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
