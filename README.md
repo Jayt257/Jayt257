@@ -77,13 +77,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayt257&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayt257&layout=compact&theme=default" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jayt257&theme=default" />
