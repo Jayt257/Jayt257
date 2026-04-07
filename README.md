@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Taravia</h1>
-<h3 align="center">Software Engineer | M.Tech (ML) | Game, Backend & AI Developer</h3>
+<h3 align="center">Software Engineer | M.Tech (ML) | Backend, AI & Game Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
