@@ -75,9 +75,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayt257&theme=default" />
-</p>
